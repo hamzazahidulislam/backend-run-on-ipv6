@@ -17,7 +17,7 @@
 
 - ### fourth IPv6 address is LINK-LOCAL IPv6 address that assing by the router and this is use commonly one user to another user can communicate with each other
 
-## One Important note here please don't use my LINK-LOCAL IPv6 address because this is always mine. You have to eanble your IPv6 functionality then you get your IPv6 Link-LOCAL IPv6 address. Then you easily change that IPv6 address. I hope you will be able to change this.
+### ` One Important note here please don't use my LINK-LOCAL IPv6 address because this is always mine. You have to eanble your IPv6 functionality then you get your IPv6 Link-LOCAL IPv6 address. Then you easily change that IPv6 address. I hope you will be able to change this.`
 
 ### when you successfully complete these. Then you can get request the server from your any local network very easily
 
@@ -34,4 +34,3 @@
 ## Last final please make sure when you try to request from browser then remove the `%3`
 
 - curl -X GET "http://[fe80::e0ed:619a:2d7a:c145]:80/"
-
