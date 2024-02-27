@@ -34,3 +34,7 @@
 ## Last final please make sure when you try to request from browser then remove the `%3`
 
 - curl -X GET "http://[fe80::e0ed:619a:2d7a:c145]:80/"
+
+## Thanks in advance
+
+## You can read my article on this topic [Article publish on Dev.to](https://dev.to/hamza_zahidul/how-to-run-backend-code-on-ipv6-400h)
